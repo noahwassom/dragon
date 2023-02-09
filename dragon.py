@@ -93,6 +93,31 @@ while p<3:
   t.forward(50)
   p=p+1
 
+  t.forward(20)
+t.left(90)
+t.forward(80)
+t.right(90)
+t.forward(60)
+t.left(-0)
+t.forward(30)
+t.right(-120)
+t.forward(30)
+t.right(-120)
+t.forward(30)
+t.left(-120)
+t.forward(30)
+t.right(-120)
+t.forward(30)
+t.left(-120)
+t.forward(30)
+t.right(-120)
+t.forward(30)
+t.right(-120)
+t.forward(90)
+t.right(180)
+t.forward(100)
+  
+  ------------------------------------------------------------------------------------------------------
   
   #withcolor:
   
